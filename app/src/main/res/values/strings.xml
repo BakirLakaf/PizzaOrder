@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PizzaOrder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pizza">PIZZA</string>
+    <string name="start_your_order_now">Start Your Order Now</string>
+    <string name="pizza_menu">PIZZA MENU</string>
+    <string name="time">Time :</string>
+    <string name="ten_oclock">10:00</string>
+    <string name="eight_oclock">08:00</string>
+    <string name="twelve_oclock">12:00</string>
+    <string name="four_pm_oclock">16:00</string>
+    <string name="nine_oclock">09:00</string>
+    <string name="eleven_oclock">11:00</string>
+    <string name="six_pm_oclock">18:00</string>
+    <string name="five_pm_oclock">17:00</string>
+    <string name="confirm_your_order">Confirm your order</string>
+    <string name="order_confirmation">
+        Your order details :\n
+        Pizza name : %s\n
+        Prix : %d.00\n
+        Time : %s\n
+        Enjoy it!, Labib Pizzeria
+    </string>
+    <string name="prix">
+        %d.00 DZD
+    </string>
+</resources>
